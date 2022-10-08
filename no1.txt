@@ -1,0 +1,13 @@
+Penulisan simbol ++ di dibelakang variable disebut dengan post-incement, 
+sedangkan bila ditulis di depan, disebut dengan pre-increment.
+
+Perbedaan i++ dengan ++i
+
+Simbol ++ sebenarnya bentuk singkatan dari sebuah ekspersi:
+
+    i++ merupakan singkatan dari i += 1 atau i = i + 1.
+    ++i merupakan singkatan dari i += 1 atau i = 1 + i.
+
+Jadi posisi simbol ++ menentukan kapan nilai variabel akan ditambah.
+
+Bila ditulis di depan, maka akan ditambah dulu. Sedangkan bila ditulis di belakang akan ditambah belakangan.

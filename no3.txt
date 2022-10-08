@@ -1,0 +1,14 @@
+penjelasan kode
+
+baris 1 file header 
+baris 3 untuk memberitahu kepada kompiler , kita akan menggunakan fungsi class name std
+baris 5 fungsi utama
+baris 7 deklarasi data integer untuk variable x dengan nilai 50
+baris 8 deklarasi data integer untuk variable a,b,c,d dan e yang belum memiliki nilai
+baris 10 proses pencarian nilai a yang menyatakan apakah x lebih besar daripada 5+5
+baris 11 proses pencarian nilai b yang menyatakan apakah x lebih besar daripada 100
+baris 12 proses pencarian nilai c yang menyatakan nilai a dan b itu harus sama jika tidak false
+baris 13 proses pencarian nilai d yang menyatakan nilai true jika a atau b true
+baris 14 proses pencarian nilai e yang menyatakan e itu bukan c
+baris 16-20 mencetak hasil a b c d dan e
+barus 21 mengembalikan nilai 
